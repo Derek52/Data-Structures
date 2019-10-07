@@ -1,6 +1,4 @@
-fun main(args : Array<String>){
-	println("Derek")
-	
+fun main(args : Array<String>) {
 	val linkedList = LinkedList<Int>()
 
 	linkedList.removeFirst()
